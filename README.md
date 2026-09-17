@@ -77,4 +77,5 @@ Before analysis, the raw dataset was checked and cleaned using DuckDB SQL:
 
 ## Dashboard Preview
 
-*(Add a screenshot of the dashboard here — drag an image into this README on GitHub and it will embed automatically.)*
+*<img width="893" height="369" alt="fraud screenshoot" src="https://github.com/user-attachments/assets/6b7a859c-34fe-455f-b212-15b45a2ea04c" />
+*
